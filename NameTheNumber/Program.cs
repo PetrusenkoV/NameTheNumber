@@ -17,38 +17,19 @@ namespace NameTheNumber
 
         static void Main(string[] args)
         {
-            string[] possibleEndings = { "", "а", "ов" };
+            Mushroom mush = new Mushroom();
 
-            int k = Int32.Parse(Console.ReadLine());
+            int k;
 
-            Console.WriteLine("Я собрал " + k + " гриб" + possibleEndings[Ending(k)]);
-
+            do
+            {
+                k = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Я собрал " + k + " гриб" + mush.Message(k));
+            } while (k != -1);
+            
             Console.ReadLine();
         }
 
-        public static int Ending(int number)
-        {
-            if (number / 10 == 1)
-            {
-                return 2;
-            }
-            else
-            {
-                int remains = number % 10;
-
-                if (remains == 1)
-                {
-                    return 0;
-                }
-                else if (remains >= 2 && remains <= 4)
-                {
-                    return 1;
-                }
-                else
-                {
-                    return 2;
-                }
-            }
-        }
+        
     }
 }

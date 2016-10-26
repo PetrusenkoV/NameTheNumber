@@ -1,0 +1,9 @@
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\Mushroom.Tests.dll
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\Mushroom.Tests.pdb
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\NameTheNumber.exe
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\nunit.framework.dll
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\NameTheNumber.pdb
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\bin\Debug\nunit.framework.xml
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\obj\Debug\Naming.Tests.csprojResolveAssemblyReference.cache
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\obj\Debug\Mushroom.Tests.dll
+C:\Users\v.petrusenko\WorkingFolder\TrainingTasks\NameTheNumber\Mushroom.Tests\obj\Debug\Mushroom.Tests.pdb
